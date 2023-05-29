@@ -7,7 +7,7 @@ These codes are about variational  graph autoencoder-based model poisoning attac
 
 ## How to run :point_down:
 ```
-python FL_SVM_GAE_Attack_Device_Side.py 
+python FL_VGAE_Attack_main.py 
 ```
 
 ## References
