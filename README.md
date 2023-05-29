@@ -13,3 +13,4 @@ python FL_VGAE_Attack_main.py
 ## References
 1. https://github.com/aswarth123/Federated_Learning_MNIST
 2. https://github.com/DaehanKim/vgae_pytorch
+3. https://arxiv.org/abs/1611.07308
