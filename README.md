@@ -9,6 +9,8 @@ These codes are about variational  graph autoencoder-based model poisoning attac
 ```
 python FL_VGAE_Attack_main.py 
 ```
+Note that the variable **num_clients_index** in the *FL_VGAE_Attack_main.py* must be kept consistent with the variable **input_dim** in *args.py*
+
 
 ## References
 1. https://github.com/aswarth123/Federated_Learning_MNIST
